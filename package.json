@@ -4,8 +4,7 @@
   "description": "list",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "build": "node server.js"
+    "start": "node server.js"
   },
   "author": "me",
   "license": "MIT",
